@@ -33,3 +33,8 @@ h2{
 p{
   font: var(--button);
 }
+.menu li {
+  display: inline-block;
+  margin: 10px;
+  color: white;
+}
